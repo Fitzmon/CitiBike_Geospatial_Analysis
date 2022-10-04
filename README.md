@@ -4,4 +4,4 @@
 However, increased ridership and unpredictable commuting patterns during the pandemic have made it hard to distribute bikes and stations due to the temporal and spatial heterogeneity in demand. As Citi Bike publishes [downloadable files](https://ride.citibikenyc.com/system-data) of Citi Bike trip data for the public, we plan on telling more stories via data analysis and visualisation based on muliti-source data.
   
 ### Data
-I downloaded all the databefore (excluded NJ) and merged them by year. Please feel free to [download](https://drive.google.com/file/d/1wkTQwi5_ncj-Cs8DZA6K63pwpBJtrW9K/view?usp=sharing) and enjoy the data! 😋
+I downloaded all the data before 2021 (excluded NJ) and merged them by year. Please feel free to [download](https://drive.google.com/file/d/1wkTQwi5_ncj-Cs8DZA6K63pwpBJtrW9K/view?usp=sharing) and enjoy the data! 😋
